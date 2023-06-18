@@ -6,10 +6,14 @@ Olá! 👋 Sou o Lael Bezerra , um desenvolvedor Full Stack apaixonado por criar
 
 ## 🚀 Habilidades
 
-**Front-end:** HTML5, CSS, JavaScript, React
+**Front-end:** HTML5, CSS, JavaScript, Typescript
+
 **Back-end:** Node.js, Express.js
+
 **Banco de Dados:** MySQL, PostgreSQL
+
 **Controle de Versão:** Git, GitHub  
+
 **Testes:** Jest, Mocha, Chai  
 **Implantação:** Docker
 
